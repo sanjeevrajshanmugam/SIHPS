@@ -3,12 +3,12 @@
 ## Register Number: 212223220096
 ## Name: SANJEEV RAJ.S
 ## Problem Title
-E-Waste Facility Locator
 ## Problem Description
 Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
 ## Problem Creater's Organization
 Ministry of Environment
 
+Tittle :"Addressing the Growing Challenge of E-Waste: A Call to Action for Sustainable Management"
 Problem Statement:
 
 The proliferation of electronic devices has led to a corresponding surge in electronic waste (e-waste), presenting a multifaceted challenge that demands urgent attention. As the Ministry of Environment, it is imperative to acknowledge the adverse environmental and human health impacts associated with improper disposal and inadequate management of e-waste.
